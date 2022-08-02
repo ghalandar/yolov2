@@ -114,5 +114,4 @@ dependencies:
     - opencv-python==4.1.0.25
     - pycparser==2.19
     - seaborn==0.9.0
-    - webp==0.1.0a13
     - ffmpeg-python
